@@ -21,6 +21,8 @@ Install the plugin like any other plugin to folder
 
 See http://docs.moodle.org/25/en/Installing_plugins for details on installing Moodle plugins
 
+Note: you can download this zip directly from github, but you will have to make sure to "rename the source directory" to "groupdistribution" in the install form (under "show more"...)
+
 
 Settings
 ========
